@@ -12,6 +12,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
+ * 获取h2数据库连接，执行查询示例
  * @Author:coder
  * @Date:2019/5/6/006
  * @Description:geektime.spring.data.datasourcedemo

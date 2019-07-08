@@ -10,6 +10,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
+ * 事务方法调用，判断事务修饰方法
  * @Author:coder
  * @Date:2019/5/8/008
  * @Description:geektime.spring.transactional

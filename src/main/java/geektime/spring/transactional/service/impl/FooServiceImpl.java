@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
+ * 调用事务方法是否执行事务问题
  * @Author:coder
  * @Date:2019/5/8/008
  * @Description:geektime.spring.transactional.service.impl
